@@ -1,7 +1,8 @@
-import { useState } from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Home from './pages/Home';
+"use client";
+import { useState } from "react";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
 import AboutUs from './pages/AboutUs';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
